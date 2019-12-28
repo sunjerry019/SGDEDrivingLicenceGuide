@@ -1,2 +1,4 @@
+#!/bin/bash
+
 texliveonfly main.tex
 texliveonfly main.tex
